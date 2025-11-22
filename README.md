@@ -1,18 +1,94 @@
-# 💫 About Me:
-Hi, I'm Aakash Netada<br>Full-Stack Developer | Automation Enthusiast | AI-Driven Solutions<br>Computer Science Graduate (2025)<br>Portfolio: aakashnetada.netlify.app<br>LinkedIn: linkedin.com/in/aakashnetada
 
+# Aakash Netada – GitHub README
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashnetada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakashnetada@gmail.com) 
+## 👋 Hi, I'm Aakash Netada
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aakashnetada&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aakashnetada&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashnetada&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 **Full-Stack Developer | Automation Enthusiast | AI-Driven Solutions**  
+🎓 Computer Science Graduate (2025)  
+📍 Gandhinagar, Gujarat, India  
+📧 **aakashnetada@gmail.com**  
+🌐 **Portfolio:** aakashnetada.netlify.app  
+🔗 **LinkedIn:** linkedin.com/in/aakashnetada  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aakashnetada&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 About Me
+
+Motivated Computer Science graduate specializing in **full-stack development**, **backend engineering**, and **AI-driven automation**.  
+I love building scalable systems, intuitive user interfaces, and modern web applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+- JavaScript, TypeScript  
+- Python  
+- SQL  
+- HTML/CSS
+
+### **Frameworks & Libraries**
+- React, Next.js  
+- Node.js  
+- Django
+
+### **AI & Automation**
+- LangChain  
+- Hugging Face
+
+### **Developer Tools**
+- Git, GitHub  
+- VS Code
+
+### **Core CS Fundamentals**
+- DSA, OOP  
+- DBMS  
+- Operating Systems  
+- Computer Networks  
+- Machine Learning Basics
+
+---
+
+## 💼 Experience
+
+### **Full Stack Web Developer — Edutech Foundations (Virtual Internship)**
+- Built a full‑stack **News Aggregator Website** using Python, Django, SQLite.  
+- Engineered backend workflows to fetch and aggregate news data dynamically.  
+- Designed responsive UI components for smooth navigation.
+
+---
+
+## 🚀 Projects
+
+### 🔹 **Taskido – Automated Task Management**
+**Tech:** Next.js, TypeScript, Convex  
+- Automated task generation using AI workflows.  
+- Real‑time updates with reactive data handling.  
+- Modular and scalable UI with ShadCN.
+
+### 🔹 **News Aggregator Website**
+**Tech:** Python, Django, SQLite  
+- Fetch, store, search, and display articles.  
+- Optimized ORM queries for faster data retrieval.
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science**  
+D Y Patil Technical Campus  
+📅 *Dec 2021 – July 2025*  
+📊 **CGPA:** 8.3
+
+---
+
+## 📜 Certifications
+
+- Python Data Structures & Algorithms — NPTEL (Elite)  
+- Oracle Cloud Infrastructure 2025 Certified – Foundations Associate  
+
+---
+
+## 🤝 Leadership
+
+- Organized student clubs and coordinated technical events.
