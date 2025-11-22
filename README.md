@@ -3,7 +3,6 @@
 
 ## 👋 Hi, I'm Aakash Netada
 
-🚀 **Full-Stack Developer | Automation Enthusiast | AI-Driven Solutions**  
 🎓 Computer Science Graduate (2025)  
 📧 **aakashnetada@gmail.com**  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashnetada.netlify.app)
