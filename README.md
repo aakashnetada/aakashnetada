@@ -1,6 +1,3 @@
-
-# Aakash Netada – GitHub README
-
 ## 👋 Hi, I'm Aakash Netada
 
 🎓 Computer Science Graduate (2025)  
