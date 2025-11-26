@@ -1,26 +1,81 @@
-## 👋 Hi, I'm Aakash Netada
-
-🎓 Computer Science Graduate (2025)  
-📧 **aakashnetada@gmail.com**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashnetada.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashnetada)
----
-
-## 🔥 About Me
-
-Motivated Computer Science graduate specializing in **full-stack development**, **backend engineering**, and **AI-driven automation**.  
-I love building scalable systems, intuitive user interfaces, and modern web applications.
+<h1 align="center">👋 Hi, I'm Aakash Netada</h1>
+<p align="center">
+  <b>Junior Software Engineer • Full-Stack Developer • Backend Enthusiast</b><br>
+  Gandhinagar, Gujarat, India
+</p>
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-## 🎓 Education
-
-**B.Tech – Computer Science**  
-D Y Patil Technical Campus  
-📅 *Dec 2021 – July 2025*  
-📊 **CGPA:** 8.3
+### 🚀 About Me
+Junior Software Engineer with hands-on experience in full-stack and backend development. Skilled in building scalable REST APIs using Django & Python and developing responsive UI with Next.js, React & TypeScript. Strong foundation in DSA, OOP, DBMS, and system architecture. Passionate about building clean, maintainable, and production-ready software.
 
 ---
+
+### 🛠 Tech Stack
+
+| Category | Technologies |
+|--------|-------------|
+| **Languages** | JavaScript, TypeScript, Python, C/C++, SQL, HTML/CSS |
+| **Frameworks / Libraries** | React, Next.js, Node.js, Django, Redux, Tailwind CSS |
+| **Databases** | MongoDB, PostgreSQL, MySQL |
+| **Tools / DevOps** | Git, GitHub, Docker, Postman, AWS EC2/S3, CI/CD |
+| **Core CS Knowledge** | REST APIs, Microservices, DSA, OOP, DBMS, OS, CN, Machine Learning |
+
+---
+
+### 📌 Featured Projects
+
+#### 🔹 Taskido – Automated Task Management **(Live)**
+📍 *Next.js, TypeScript, Convex, ShadCN UI*  
+🔗 Live Demo: https://taskido-pearl.vercel.app/  
+💻 Source Code: https://github.com/aakashnetada/Taskido  
+- Real-time task management application with automated task generation workflows  
+- Implemented reactive state handling using Convex  
+- Modular frontend with reusable UI components and responsive design
+
+#### 🔹 News Aggregator Website
+📍 *Python, Django, SQLite*  
+💻 Source Code: https://github.com/aakashnetada/News_Aggregator  
+- Fetches, stores, and searches news articles from external sources  
+- Dynamic filtering based on user preferences  
+- Optimized database queries for fast content retrieval
+
+---
+
+### 💼 Experience
+
+**Full Stack Web Developer – Virtual Internship**  
+📌 *Edutech Foundations — Feb 2024* (Remote)  
+- Built a full-stack News Aggregator application using Django and REST APIs  
+- Enhanced user experience with responsive UI layouts  
+- Designed optimized backend workflows for data aggregation  
+- Improved database performance by restructuring models and queries
+
+---
+
+### 🎓 Education
+**B.Tech — Computer Science**  
+📌 D Y Patil Technical Campus  
+📆 Dec 2021 – Jul 2025 | GPA: 8.3  
+📍 Kolhapur, Maharashtra, India
+
+---
+
+### 📫 Contact
+📧 Email: **aakashnetada@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/aakashnetada  
+🐙 GitHub: https://github.com/aakashnetada  
+🌐 Portfolio: https://aakashnetada.netlify.app  
+
+---
+
+### 🔍 What I'm Currently Doing
+- Building full-stack applications with **React.js**
+- Strengthening **system design & cloud deployment**
+- Learning **real-time architecture & microservices**
+
+---
+
+### 💡 Let's Connect
+I'm open to internships / full-time opportunities in **Backend, Full-Stack, and Software Engineering** roles.  
+If you think I’d be a good fit — I’d love to talk!
